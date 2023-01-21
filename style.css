@@ -1,0 +1,85 @@
+ .navbar {
+     background-color: transparent;
+
+ }
+
+ .carousel {
+     position: relative;
+     bottom: 80px;
+ }
+
+ * {
+     margin: 0px;
+     padding: 0px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+
+ .font {
+     font-family: "Caviar-Dreams";
+ }
+
+
+ .banner {
+     /* background: url(https://c.tribune.com.pk/2017/04/1-gola-ganda-street-dhorajee-april-12-2017-athar-khan-1492701059.jpg); */
+     background: url(https://www.foodnetwork.com/content/dam/images/food/fullset/2022/02/9/0/KC3004_katie-lee-biegel-edible-cereal-treat-bowls-for-ice-cream-sundae-2_s4x3.jpg);
+     height: 600px;
+     width: 100%;
+     /* width: 200%; */
+     background-repeat: no-repeat;
+     background-position: center;
+
+     background-size: cover;
+     /* background-size: auto; */
+     /* opacity: 0.; */
+ }
+
+
+ .owner {
+     background: url(://awamiweb.com/wp-contehttpsnt/uploads/2014/06/gola-ganda.jpg);
+     height: 100%;
+     width: 100vh;
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-position: center;
+     /* position: relative; */
+     /* text-align: center; */
+ }
+
+ .bgwarning {
+     background-color: #FAF0E6;
+ }
+
+ .opacity {
+     background-color: rgba(255, 255, 255, 0.4);
+     height: 100%;
+     width: 100%;
+ }
+
+
+ .contact {
+     color: rgb(9, 6, 240);
+ }
+
+
+
+ .manubanner {
+     background: url(https://i.pinimg.com/originals/68/54/22/685422ac2e7801793d3491a63f86b9a0.jpg);
+     /* background-attachment: fixed; */
+     width: 100%;
+     height: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+
+     /* opacity: 0.5; */
+ }
+
+ .borders {
+     border-radius: 150px 25px;
+     border: 3px solid black;
+ }
+
+ .footcolor {
+     background-color: darkgray;
+ }
